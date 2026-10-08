@@ -1,9 +1,9 @@
 ---
-name: deepgram-ops
+name: deepgram-usage
 description: Read Deepgram projects, bounded usage and billing breakdowns, balances, purchases and request metadata through the Management API.
 ---
 
-# Deepgram Ops
+# Deepgram Usage
 
 Explain speech usage and spend without sending another audio file.
 

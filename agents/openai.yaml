@@ -1,4 +1,4 @@
 interface:
-  display_name: "Deepgram Ops"
+  display_name: "Deepgram Usage"
   short_description: "Explain speech usage and spend without sending another audio fil"
-  default_prompt: "Use $deepgram-ops to inspect the requested scope and report verified results."
+  default_prompt: "Use $deepgram-usage to inspect the requested scope and report verified results."

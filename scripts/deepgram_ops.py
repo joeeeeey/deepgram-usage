@@ -23,7 +23,7 @@ from typing import Any
 
 
 API_BASE = "https://api.deepgram.com/v1"
-USER_AGENT = "deepgram-ops/1.0"
+USER_AGENT = "deepgram-usage/1.0"
 
 
 def eprint(*args: object) -> None:
