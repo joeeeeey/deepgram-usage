@@ -23,12 +23,7 @@ Requires Node.js **22.20+** for the tested skills installer.
 npx skills@1.7.1 add joeeeeey/deepgram-usage --agent codex claude-code cursor --yes
 ```
 
-The implementation is initially delivered in a pull request. Until that PR is merged,
-reviewers can install the branch with:
-
-```sh
-npx skills@1.7.1 add 'https://github.com/joeeeeey/deepgram-usage#feat/standalone-skill' --agent codex claude-code cursor --yes
-```
+[View on skills.sh](https://skills.sh/joeeeeey/deepgram-usage/deepgram-usage)
 
 Then ask your agent to use **deepgram-usage**. The standard SKILL.md and bundled CLI are the
 portable interface; no dependency on another personal skill is needed.
